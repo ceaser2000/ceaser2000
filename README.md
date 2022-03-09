@@ -3,9 +3,8 @@
 ## I'm a  Student, Programming Enthusiast &  a Programmer 
 ***
 - 👋 Hi, I’m **BHOJ RAJ THAKUR**  
-- 👀 I’m interested in **PROGRAMMING and DSA**  
+- 👀 I’m interested in **PROGRAMMING and DATA STRUCTURES**  
 - 🌱 I’m currently learning **C++ and PYTHON**  
-- 💬 Ask me about **C++, GIT and PYTHON**
 - 💞️ I’m looking to collaborate on **C++ and PYTHON Projects**  
 - 📫 How to reach me: [@dmr_s0ul](https://instagram.com/dmr_s0ul) on **INSTAGRAM**  
 - 👨🏻‍💻 <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=ceaser2000">  
