@@ -1,6 +1,6 @@
 <h1 align="center">👋Hey there, I'm Bhoj Raj Thakur.</h1>
 
-## I'm a  Student, Programming Enthusiast &  a Programmer 
+## I'm a  Student, Programming Enthusiast & DB Freak
 ***
 - 👋 Hi, I’m **BHOJ RAJ THAKUR**  
 - 👀 I’m interested in **PROGRAMMING and DATA STRUCTURES**  
