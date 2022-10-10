@@ -6,7 +6,7 @@
 - 👀 I’m interested in **PROGRAMMING and DATA STRUCTURES**  
 - 🌱 I’m currently learning **C++ and PYTHON**  
 - 💞️ I’m looking to collaborate on **C++ and PYTHON Projects**  
-- 📫 How to reach me: [@bhoju.ig](https://instagram.com/dmr_s0ul) on **INSTAGRAM**  
+- 📫 How to reach me: [@bhoju.ig](https://instagram.com/bhoju.ig) on **INSTAGRAM**  
 - 👨🏻‍💻 <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=ceaser2000">  
 ***
 # Github Stats
